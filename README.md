@@ -28,9 +28,3 @@ It classifies websites as either "Safe" or "Not Safe" with evaluation metrics in
   - `numpy`
   - `torch`
 
-## Hyperparameters:
-Learning Rate: 2e-4
-Batch Size: 8
-Epochs: 10
-Output Directory: bert-phishing-classifier_teacher
-These can be adjusted in the training_args section of the script.
